@@ -1,7 +1,7 @@
 # HighlightMyDateTime Ninjatrader 8 Indicator
 
 ## 1. About
-* This indicator helps you find correlations between instruments price movement (ES -> FDAX, NQ, YM). This works great with `CurrentDayOHL` and `PriorDayOHLC`, etc. important price locations as support/resistance levels.
+* This indicator helps you find correlations between instruments price movement using **Vertical Lines** (ES -> FDAX, NQ, YM). This works great with `CurrentDayOHL` and `PriorDayOHLC`, etc. important price locations as support/resistance levels.
 * Master and Slave roles are defined
   * Master: Where you draw your vertical lines which you want to replicate to other instruments/charts.
   * Slave: Where the Master chart's vertical lines DateTime Anchor data is used to draw vertical lines automatically.
