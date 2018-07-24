@@ -17,7 +17,7 @@
 ## 3. Using HighlightMyDateTime indicator
 * Open some instruments, like ES and NQ on two separate charts.
 * Apply `HighlightMyDateTime` indicator on both charts.
-* Tick `MasterMode` parameter on ES chart and draw a few vertical lines.
+* Tick `ModeMaster` parameter on ES chart and draw a few vertical lines.
 * Set `GroupID` parameter if needed. They have to match on both charts.
 * You should see vertical lines appearing on NQ at the same DateTime Anchor which you drew on the ES chart.
 * Enjoy
